@@ -1,8 +1,12 @@
 configs/InitConfig.java
  configs.InitConfig
-objects/Rectangle.java
- objects.Rectangle
-configs/GridSystem.java
- configs.GridSystem
+grid/GridCell.java
+ grid.GridCell
 Main.java
  Main
+grid/GridSystem.java
+ grid.GridSystem
+utils/Constants.java
+ utils.Constants
+objects/Rectangle.java
+ objects.Rectangle
