@@ -26,6 +26,7 @@ public class Rectangle {
 
     //TODO: Update only if the rectangle is moving
     //TODO: If the rectangle goes out of the boundaries disappear
+    //TODO: Add the rectangles to chunks and update according to some rules
     public void update(){
         GridSystem gridSystem = GridSystem.getInstance();
         InitConfig initConfig = InitConfig.getInstance();
